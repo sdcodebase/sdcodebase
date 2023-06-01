@@ -5,12 +5,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdcodebase)](https://solved.ac/sdcodebase/)
 
 
-name: Sundo Kim
+😀 name: Sundo Kim
 
 📮 blog: [https://sdcodebase.tistory.com/](https://sdcodebase.tistory.com)
 ✉️ gmail: sdcodebase@gmail.com
 
-## Skills
+## 💻 Skills
 - Java / Node.js
 - Spring Boot / Spring MVC
 - Spring Data JPA / QueryDSL
