@@ -5,10 +5,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdcodebase)](https://solved.ac/sdcodebase/)
 
 
-😀 name: Sundo Kim
-
-📮 blog: [https://sdcodebase.tistory.com/](https://sdcodebase.tistory.com)
-✉️ gmail: sdcodebase@gmail.com
+- 😀 name: Sundo Kim
+- 📮 blog: [https://sdcodebase.tistory.com/](https://sdcodebase.tistory.com)
+- ✉️ gmail: sdcodebase@gmail.com
 
 ## 💻 Skills
 - Java / Node.js
