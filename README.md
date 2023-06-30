@@ -15,5 +15,6 @@
 
 |         Type          |       Date        | Contents                                  |  Organization   |
 | :-------------------: | :---------------: | ----------------------------------------- | :-------------: |
+|     🌃 Company     | 2023.07 ~ 2021.11 | B.E. developer                                |  B2C startup  |
 |     🌃 Company     | 2019.12 ~ 2021.11 | B.E. developer                                |  B2C startup  |
 |      🏫 Education      | 2017.03 ~ 2023.02 | Department of Computer Engineering       | Hansung University |
