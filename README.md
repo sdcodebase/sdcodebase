@@ -8,7 +8,6 @@
 - Java / Node.js
 - Spring Boot / Spring MVC / Spring Data JPA
 - MySQL
-- AWS Lambda
 
 ## 📚 Time line
 
