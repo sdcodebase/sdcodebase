@@ -3,6 +3,7 @@
 
 - 회사 계정:  https://github.com/soda-shawn
 - ✉️ gmail: sdcodebase@gmail.com
+- Blog: https://sdcodebase.tistory.com
 
 ## 💻 Skills
 - Java / Spring / JPA / AWS / MySQL
